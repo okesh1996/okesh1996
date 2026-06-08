@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Okesh Kumar
 
-<!--
-**okesh1996/okesh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security Enthusiast
 
-Here are some ideas to get you started:
+## What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Networking
+- Ethical Hacking
+- Git & GitHub
+
+## Current Goal
+
+Build practical cybersecurity projects and share them on GitHub.
+
+## Certifications
+
+- Add certifications here
+
+## Projects
+
+- Project 1
+- Project 2
+- Project 3
