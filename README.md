@@ -1,24 +1,48 @@
-# 👋 Hello, I'm Okesh Kumar
+# Hi, I'm Okesh Kumar 👋
 
-Cyber Security Enthusiast
+Cybersecurity Enthusiast | Network Security | Linux | SIEM | VAPT | Python
 
-## What I'm Learning
+## About Me
+- Electronics & Communication Engineer
+- 4+ years of experience in Embedded, IoT and SCADA
+- Transitioning into Cybersecurity
+- Interested in SOC, VAPT, Threat Detection and Cloud Security
 
-- Linux
-- Networking
-- Ethical Hacking
-- Git & GitHub
+## Technical Skills
 
-## Current Goal
+### Security
+- SIEM
+- Splunk
+- Nessus
+- Wireshark
+- Nmap
+- Burp Suite
 
-Build practical cybersecurity projects and share them on GitHub.
+### Operating Systems
+- Kali Linux
+- Ubuntu
+- Windows Server
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- HTTP/HTTPS
+- SSH
+
+### Programming
+- Python
+- Bash
 
 ## Certifications
+- Advanced Executive Program in Cyber Security (Simplilearn)
 
-- Add certifications here
+## Currently Learning
+- Active Directory
+- MITRE ATT&CK
+- Detection Engineering
+- Cloud Security
 
-## Projects
-
-- Project 1
-- Project 2
-- Project 3
+## Contact
+www.linkedin.com/in/okesh-kumar
+designeroksrajawat@gmail.com
