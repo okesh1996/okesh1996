@@ -1,12 +1,12 @@
 # Hi, I'm Okesh Kumar 👋
 
-Cybersecurity Enthusiast | Network Security | Linux | SIEM | VAPT | Python
+Cybersecurity Enthusiast | Network Security | Linux | SIEM | VAPT
 
 ## About Me
 - Electronics & Communication Engineer
-- 4+ years of experience in Embedded, IoT and SCADA
+- 4+ years of experience in Embedded, IoT and SCADA.
 - Transitioning into Cybersecurity
-- Interested in SOC, VAPT, Threat Detection and Cloud Security
+- Interested in SOC, VAPT, Threat Detection.
 
 ## Technical Skills
 
@@ -30,18 +30,10 @@ Cybersecurity Enthusiast | Network Security | Linux | SIEM | VAPT | Python
 - HTTP/HTTPS
 - SSH
 
-### Programming
-- Python
-- Bash
 
 ## Certifications
 - Advanced Executive Program in Cyber Security (Simplilearn)
 
-## Currently Learning
-- Active Directory
-- MITRE ATT&CK
-- Detection Engineering
-- Cloud Security
 
 ## Contact
 www.linkedin.com/in/okesh-kumar
