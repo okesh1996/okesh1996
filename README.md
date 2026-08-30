@@ -3,7 +3,7 @@
 <h3>Cybersecurity Enthusiast | VAPT | SOC | Network Security | Linux</h3>
 
 <p>
-  I'm a Cybersecurity enthusiast with an engineering background and 4+ years of
+  I'm a Cybersecurity enthusiast with an engineering background and 5+ years of
   professional experience in <strong>Embedded Systems, IoT, and SCADA</strong>.
 </p>
 
